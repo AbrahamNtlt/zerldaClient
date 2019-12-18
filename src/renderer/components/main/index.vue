@@ -1,7 +1,5 @@
 <template>
     <div id="wrapper">
-        <!-- <p>{{url | type }}</p> -->
-        <!-- <img id="logo" src="~@/assets/logo.png" alt="electron-vue"> -->
         <div style="height: 100%; width: 100%">
             <l-map
                 style="height: 100%; width: 100%"
